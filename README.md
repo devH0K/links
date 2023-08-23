@@ -16,9 +16,9 @@ Gerenciador de links. <br/>
 
 <br>
 
-<!-- <p align="center">
+<p align="center">
   <img alt="projeto Links" src=".github/preview.jpg" width="100%">
-</p> -->
+</p>
 
 ## 🚀 Tecnologias
 
